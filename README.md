@@ -1,4 +1,4 @@
-# trellis-deploy-image
+# Trellis Deploy Image
 Docker image used to deploy [Trellis](https://roots.io/trellis/) applications.
 
 You will need to:
