@@ -8,3 +8,4 @@ You will need to:
 - copy an SSH key that has access to the server that will be deployed
 
 This image is based on [this ansible image](https://hub.docker.com/r/williamyeh/ansible).
+
